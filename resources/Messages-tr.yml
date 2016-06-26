@@ -1,0 +1,28 @@
+#Turkish Language File
+#This is the default lang file!
+
+## If you make any mistakes, just remove the lang file and it will
+## generate a fresh new copy after reloading/restarting server!
+
+
+# Game events related
+Already_Playing: Zaten oyundasın
+Joined_Arena: Turnuvaya katıldın
+Not_In_Match: Sen oyunda degilsin
+Matched_Running: Maç zaten başladı!
+No_Permission: BU komut için izinin yok!
+Force_Start: Oyun zorla başlatıldı
+Blocked_Command: Bu komut engellendi
+
+# Timer related
+Starting: Başlıyor {time}
+Timer: Turnuvanın başlamasına {time}
+Not_Enough_Players: Yetersiz oyuncu. Geri sayım iptal edildi
+
+# Arena related: Use \n for a new line
+Started: Turnuva başladı
+Chest_Refilled: Sandıklar yenilendi!
+Deathmatch_starting: Ölüm oyununun başlamasına {time} 
+Deatchmatch_started: Ölüm oyunu başladı. Bir kazanan olacak
+Match_Ending: Bitimesine {time}
+Match_Ended: Maç sonlandı
